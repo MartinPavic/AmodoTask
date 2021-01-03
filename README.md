@@ -11,6 +11,6 @@ Admin login:
 - username: martinpavic
 - password: amodo2020
 
-Admin interface is accessed on http://127.0.0.1/admin/
+Admin interface is accessed on http://127.0.0.1:8000/admin/
 
-Swagger api documentation is accessed on http://127.0.0.1/swagger/
+Swagger api documentation is accessed on http://127.0.0.1:8000/swagger/
